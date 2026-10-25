@@ -536,7 +536,7 @@ def servidor_tcp():
 
 
 # ========================================
-# VENTANA GRAFICA MODERNA
+# VENTANA GRAFICA
 # ========================================
 
 COLOR_BG = "#0F172A"          # Azul pizarra oscuro principal
